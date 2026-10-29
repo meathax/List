@@ -1,0 +1,18 @@
+{
+  "counts": {
+    "totalParents": 11487,
+    "covered": 2434,
+    "notOnMister": 9053
+  },
+  "files": {
+    "index.html": "3fc7f2779592e4bf551c889b131804186ad2fdfa1148c83b7a9284274371d004",
+    "README.md": "33e8c655e9c49a553c27c5214596035132e85ed998dde95f9f1b260fb499cda2",
+    "assets/app.js": "ba6c9ad0169f41df3cf15e4fa9bd131b9df500028ce374a4de169043c43a31df",
+    "assets/style.css": "ed56c6f7fddee03e0f75de679481607a03d3d66403b46638cf9bda3040130c37",
+    "assets/goblin.png": "926ed38b90fb65407f353c4018dc4541f9ea7edf22b61e60830ce2483309019e",
+    "data/catalogue.json": "51735563c8947897e88d4220e5f0f885bcc11d156d6e31f953da9a063cb1a845",
+    "data/sources/MAME_0.289_Arcade_Parents.txt": "7b7d13d6cf627bcca73d2ab450cb7e1a111c1d61703fe75c0d283a0ba37e6aaa",
+    "data/sources/curated-research-catalogue.json": "640a693aa35c258f1ba31b89f20d4cfb99bd117bb92630d553e8b2281538a157",
+    "data/sources/supplied-mister-covered-2434.txt": "5183c70287967417c231640fd78d66c4d306c7e6c1d0d69cecb547d931f21d54"
+  }
+}
